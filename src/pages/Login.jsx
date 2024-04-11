@@ -90,6 +90,10 @@ function Login() {
               </Icon>
             </Button>
           </Stack>
+          <Text fontSize="sm" color="gray.500" textAlign="center" mt={2}>
+            Please note: Due to Spotify policy, the application is currently
+            limited to 25 users participated in development mode.
+          </Text>
         </Box>
         <Box
           w={{ base: "full", md: 10 / 12 }}
